@@ -9,6 +9,7 @@
     "css-loader": "^3.4.2",
     "html-webpack-plugin": "^4.0.0-beta.11",
     "mini-css-extract-plugin": "^0.9.0",
+    "qiniu": "^7.3.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   }
